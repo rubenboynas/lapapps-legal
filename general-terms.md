@@ -2,6 +2,31 @@
 layout: default
 ---
 
+<style>
+  /* Oculta toda la columna lateral (donde están los links de GitHub) */
+  header { 
+    display: none !important; 
+  }
+
+  /* Quita el pie de página que dice "Maintained by..." */
+  footer { 
+    display: none !important; 
+  }
+
+  /* Centra el contenido y quita el margen lateral innecesario */
+  .wrapper {
+    max-width: 800px !important;
+    margin: 0 auto !important;
+    padding: 40px 20px !important;
+  }
+
+  /* Asegura que la sección de texto ocupe todo el ancho disponible */
+  section {
+    width: 100% !important;
+    float: none !important;
+  }
+</style>
+
 # TERMS AND CONDITIONS
 Last Updated: 28/12/2025
 
