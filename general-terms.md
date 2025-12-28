@@ -31,7 +31,7 @@ layout: default
 Last Updated: 28/12/2025
 
 ## 1. Introduction
-Welcome to this Application (the "App"). The App is owned and operated by [YOUR FULL NAME] ("Developer", "I", "me", or "my"). By downloading, accessing, or using any application developed under this project, you agree to be bound by these Terms and Conditions (the "Terms"). If you do not agree to these Terms, please do not use the App.
+Welcome to this Application (the "App"). The App is owned and operated by Rubén Vázquez ("Developer", "I", "me", or "my"). By downloading, accessing, or using any application developed under this project, you agree to be bound by these Terms and Conditions (the "Terms"). If you do not agree to these Terms, please do not use the App.
 
 These Terms apply to all users, visitors, and others who access or use the App on both iOS and Android platforms.
 
@@ -102,7 +102,7 @@ In no event shall I, the Developer, be liable for any indirect, incidental, spec
 I reserve the right to modify these Terms at any time. I will notify users of any changes by updating the "Last Updated" date at the top of this document or through an in-app notification. Continued use of the App after changes constitutes acceptance of the new Terms.
 
 ## 10. Governing Law
-These Terms shall be governed and construed in accordance with the laws of [YOUR COUNTRY/REGION], without regard to its conflict of law provisions.
+These Terms shall be governed and construed in accordance with the laws of Spain, without regard to its conflict of law provisions.
 
 ## 11. Contact Information
 If you have any questions about these Terms, please contact me at:
